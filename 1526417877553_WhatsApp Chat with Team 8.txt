@@ -1,0 +1,140 @@
+2018/04/17, 16:33 - Messages to this group are now secured with end-to-end encryption. Tap for more info.
+2018/04/17, 10:41 - ‪+27 74 870 7789‬ created group "Team 8"
+2018/04/17, 16:33 - ‪+27 74 870 7789‬ added you
+2018/04/17, 16:38 - ‪+27 74 870 7789‬: I welcome all of u
+
+Now tht we all here, can we pls discuss about the work...or arrange n meet 2mor , coz the url is due 2mor evening
+2018/04/17, 16:38 - ‪+27 74 246 4079‬: https://github.com/Simango/Vending-Machine-FSM
+2018/04/17, 16:49 - ‪+27 74 870 7789‬: Wil hv a look at tht just now
+
+Dd u complete it or u still need help??
+2018/04/17, 18:54 - ‪+27 81 255 2294‬: I'll look at the code...
+2018/04/17, 19:07 - Mdu_Psych: Where can we meet?
+2018/04/17, 19:34 - ‪+27 74 749 9473‬: How about basement after database?
+2018/04/17, 20:13 - ‪+27 76 895 1030‬: I have a class at that time unfortunately
+2018/04/18, 08:44 - Mdu_Psych: Can we please try and propose the time we are gonna meet
+2018/04/18, 09:01 - ‪+27 76 895 1030‬: Is everyone free at 1?
+2018/04/18, 09:05 - Mdu_Psych: I have class at 1
+2018/04/18, 11:45 - ‪+27 74 749 9473‬: Where are we meeting
+2018/04/18, 12:13 - Phumudzo: I'm at split level 2
+2018/04/18, 12:17 - ‪+27 74 870 7789‬: M at at the basement, buh i can come
+
+Where is every1??
+2018/04/18, 12:30 - ‪+27 74 246 4079‬: Split level 2 or basement?
+2018/04/18, 12:56 - Phumudzo: I literally fell asleep 😅
+2018/04/18, 12:56 - Phumudzo: Where's everyone. I was at split level 2 at the study units
+2018/04/18, 12:59 - Mdu_Psych: ..
+2018/04/18, 13:00 - Phumudzo: Cool
+2018/04/18, 13:04 - ‪+27 74 870 7789‬: I said i wil go 2 split level, if some1 shows up
+2018/04/18, 13:42 - Mdu_Psych: Can we meet at 4 since there is no communication
+2018/04/18, 14:07 - Phumudzo: Cool
+2018/04/18, 14:17 - ‪+27 61 853 6322‬: Anyone with the textbook???
+2018/04/18, 14:17 - Mdu_Psych: What textbook
+2018/04/18, 14:19 - ‪+27 61 853 6322‬: I've just read the instructions!!!
+
+We should start with the FSM given in figure 3.5 of the textbook (on page 101)...or🤔🤔🤔
+2018/04/18, 14:27 - Mdu_Psych: It's on one of the documents on efundi
+2018/04/18, 15:24 - Phumudzo: Where are we meeting?
+2018/04/18, 15:46 - Mdu_Psych: Guys
+2018/04/18, 15:47 - Phumudzo: Sho Mdu
+2018/04/18, 15:48 - Mdu_Psych: Aren't we meeting at 4
+2018/04/18, 15:49 - Phumudzo: Yah let's meet at the entrance of building 3
+2018/04/18, 15:49 - Mdu_Psych: Okay
+2018/04/18, 15:57 - ‪+27 81 255 2294‬: Where are you guys?
+2018/04/18, 15:58 - Phumudzo: Entrance
+2018/04/18, 16:00 - ‪+27 81 255 2294‬: Building 3 entrance..?
+2018/04/18, 16:01 - Mdu_Psych: Yes
+2018/04/18, 16:01 - Mdu_Psych: ..
+2018/04/18, 16:22 - ‪+27 81 255 2294‬: I am there. Where are you guys?
+2018/04/18, 16:22 - Mdu_Psych: Ahh dawg
+2018/04/18, 16:23 - ‪+27 81 255 2294‬: Please just tell me where you at I'll come...
+2018/04/18, 16:23 - Mdu_Psych: We left
+2018/04/18, 16:24 - ‪+27 81 255 2294‬: To which building?
+2018/04/18, 16:24 - Mdu_Psych: Separate ways
+2018/04/18, 16:25 - ‪+27 81 255 2294‬: Oh awe. I'll do the coding part.
+2018/04/18, 16:26 - Mdu_Psych: Who has all the information as to the way we are supposed to do everything
+2018/04/18, 16:28 - ‪+27 81 255 2294‬: Its on Effortundi but I'll try forward it to everyone on the group.
+2018/04/18, 16:32 - Mdu_Psych: Okay
+2018/04/18, 17:06 - ‪+27 74 246 4079‬: Guys I won't be able to make. Please update me here, but today what we really need to do is to submit the url of the project in github. I created the project in git already.
+2018/04/18, 17:13 - Phumudzo: Cool. We'll talk late, I need to rest a bit
+2018/04/18, 19:10 - ‪+27 74 870 7789‬: Please dont 4get 2 submit...
+2018/04/18, 19:11 - ‪+27 74 870 7789‬: Thank you so much🙌
+2018/04/18, 19:11 - Mdu_Psych: But you didn't put us as collaborators in the project
+2018/04/18, 19:36 - ‪+27 74 246 4079‬: Its open. For me to make it private and make ya'll collaborators I need to buy a license
+2018/04/18, 20:48 - Phumudzo: I think you have to leave it private or he won't be a me to make
+2018/04/18, 20:48 - Phumudzo: Mark
+2018/04/18, 23:22 - ‪+27 81 255 2294‬: <Media omitted>
+2018/04/18, 23:23 - ‪+27 81 255 2294‬: Something to include in our GitHub .... for the submission.
+2018/04/19, 21:06 - Phumudzo: Can you please add me as a contributor -> pa.muvhango@gmail.com
+2018/05/15, 10:11 - ‪+27 79 886 8294‬: I have talked to the lecturer and he let us change our github repository so if everyone can send their email on the group I will add them as contributers
+2018/05/15, 10:11 - ‪+27 79 886 8294‬: We have toe submit the final work by 12 tonight
+2018/05/15, 10:13 - ‪+27 74 246 4079‬: Thabisomzizi126@gmail.com
+2018/05/15, 10:16 - Mdu_Psych: mducmsiza@gmail.com
+2018/05/15, 10:17 - ‪+27 81 255 2294‬: kaizermthimkhulu@gmail.com
+2018/05/15, 10:44 - ‪+27 74 870 7789‬: aviwemvundlela@gmail.com
+2018/05/15, 11:02 - ‪+27 61 853 6322‬: Moshugikatlego05@gmail.com
+2018/05/15, 11:05 - Phumudzo: pa.muvhango@gmail.com
+2018/05/15, 11:39 - ‪+27 74 749 9473‬: Vacixzaro@gmail.com
+2018/05/15, 11:46 - Phumudzo: I'll contribute something tonight
+2018/05/15, 12:37 - ‪+27 74 870 7789‬: I heard everyone has 2 submit sumthin buh m not sure its true
+2018/05/15, 12:41 - ‪+27 74 749 9473‬: Yes, documentation
+2018/05/15, 13:37 - ‪+27 79 886 8294‬: Sorry it looks like I need everyone github names not emails
+2018/05/15, 13:45 - Phumudzo: jgadjetx
+2018/05/15, 13:48 - ‪+27 81 255 2294‬: Kaizer Mthimkhulu
+2018/05/15, 14:07 - ‪+27 61 853 6322‬: Moshugi
+2018/05/15, 14:09 - ‪+27 74 246 4079‬: Simango
+2018/05/15, 15:29 - ‪+27 79 886 8294‬: I am writing the clips program what else should we do
+2018/05/15, 17:10 - ‪+27 79 886 8294‬: You should accept the invites on github
+2018/05/15, 17:12 - ‪+27 79 886 8294‬: I put the code on but I see the lecturer dit not reopen the asingment for uss I will email him the link
+2018/05/15, 17:13 - Mdu_Psych: MduPsych
+2018/05/15, 17:31 - ‪+27 79 886 8294‬: Is someone going to do the documentation
+2018/05/15, 17:32 - ‪+27 81 255 2294‬: I'll do it
+2018/05/15, 17:49 - ‪+27 74 749 9473‬: Please create a google doc. So that we can contribute as well.
+2018/05/15, 17:51 - ‪+27 81 255 2294‬: OK
+2018/05/15, 17:55 - ‪+27 79 886 8294‬: Is anyone that accepted the invite able to upload files in github
+2018/05/15, 18:45 - ‪+27 74 749 9473‬: Github username: KaraboMotsepe
+2018/05/15, 18:57 - ‪+27 81 255 2294‬: Github username : kaizermthimkhulu
+2018/05/15, 19:17 - ‪+27 74 246 4079‬: I can't.  I don't even see th e repository
+2018/05/15, 19:19 - ‪+27 74 246 4079‬: I accepted though
+2018/05/15, 19:22 - ‪+27 79 886 8294‬: Github is crap acording to the settings collaborators should be able to edit
+2018/05/15, 19:27 - ‪+27 74 749 9473‬: Just Shared a google doc. Check your emails. Please indicate your contribution by stating your name after you've done your part
+2018/05/15, 19:32 - ‪+27 79 886 8294‬: Acording to what I have seen you should be able to edit files if you are a contributer
+2018/05/15, 19:51 - Phumudzo: I don't see an invite? I want to commit something
+2018/05/15, 19:52 - Phumudzo: Oh... I see it now
+2018/05/15, 19:56 - Phumudzo: I'm uploading state transition diagram
+2018/05/15, 20:04 - ‪+27 74 749 9473‬: I'll do the problem statememt . Who's doing 'planning documents' and 'end user documentation'
+2018/05/15, 20:05 - ‪+27 81 255 2294‬: I already did problem statement. I'm uploading it now
+2018/05/15, 20:12 - ‪+27 74 749 9473‬: Alright cool dont forget to indicate with your name underneath
+2018/05/15, 20:18 - ‪+27 74 246 4079‬: I'll do end user documentation
+2018/05/15, 20:18 - ‪+27 74 749 9473‬: M doing the planning document
+2018/05/15, 20:54 - Mdu_Psych: And what would the rest of us do?
+2018/05/15, 20:56 - ‪+27 81 255 2294‬: Who is doing coding..?
+2018/05/15, 20:59 - Phumudzo: I added a FSM diagram... What else needs to be done.
+2018/05/15, 20:59 - Mdu_Psych: Isn't the coding part finished on the repository?
+2018/05/15, 20:59 - Phumudzo: It's done
+2018/05/15, 21:00 - Phumudzo: Who's gonna commit the final documentation
+2018/05/15, 21:00 - Mdu_Psych: On the repository?
+2018/05/15, 21:00 - Phumudzo: Yes
+2018/05/15, 21:06 - ‪+27 74 749 9473‬: @aviwe m sorry to disturb you but i think end user documentation should be more within the context of our problem statement. It should sorta be like a manual (guide to using the machine) just a suggestion though
+2018/05/15, 21:08 - Mdu_Psych: I can do that
+2018/05/15, 21:17 - Phumudzo: Please don't forget to push the documentation to github
+2018/05/15, 21:19 - ‪+27 74 749 9473‬: 👍🏽
+2018/05/15, 21:30 - ‪+27 74 749 9473‬: Someone who has all the  conversations of this group. Please create a txt file,  add all our chats there and then contribute it to repository
+2018/05/15, 21:34 - Mdu_Psych: Will do that
+2018/05/15, 22:05 - ‪+27 81 255 2294‬: I'm sorry guys, who created the GitHub and submitted the URL
+2018/05/15, 22:11 - Mdu_Psych: Done
+2018/05/15, 22:11 - ‪+27 74 246 4079‬: I created the first one, but it was changed coz I couldn't add people
+2018/05/15, 22:12 - ‪+27 61 853 6322‬: Please dont submit the convos first...i wanna add something just now!!!
+2018/05/15, 22:12 - ‪+27 81 255 2294‬: which one are we using now,can you send me the link please
+2018/05/15, 22:13 - ‪+27 79 886 8294‬: I dit
+2018/05/15, 22:13 - ‪+27 79 886 8294‬: Did
+2018/05/15, 22:14 - ‪+27 74 246 4079‬: I was doing the end-user documentation and I see its already there🤷🏾‍♂
+2018/05/15, 22:14 - Mdu_Psych: You'll let me know
+2018/05/15, 22:15 - ‪+27 74 246 4079‬: What do I do now?
+2018/05/15, 22:16 - ‪+27 61 853 6322‬: Ohk...thanks!
+2018/05/15, 22:20 - ‪+27 79 886 8294‬: https://github.com/26056984/Team8vendingmachene
+2018/05/15, 22:22 - ‪+27 81 255 2294‬: Thank you
+2018/05/15, 22:23 - ‪+27 74 246 4079‬: Google docs doesn't support the tables I created. I can copy them onto it, but it does show the values in the rows and columns. Who is compiling so that I send them the word doc I have and will submit that version
+2018/05/15, 22:34 - ‪+27 61 853 6322‬: I just added Solution to Problem Statements...just thought i should add coz theres nothing for me to do!!!...please dont remove it!!!...I need those marks!!!😅
+2018/05/15, 22:36 - ‪+27 74 246 4079‬: I added a manal for the vending in repository, since ya'll were blue ticking me here. Its of the end user documentation
+2018/05/15, 22:37 - Mdu_Psych: Meaning?
