@@ -6,24 +6,7 @@
 (deftemplate Money (slot money))
 
 (deffunction input-money (?input)
-      (if (eq ?input R5)
-		then
-                (return 5.00))
-      (if (eq ?input R2) 
-		then
-                (return 2.00))
-      (if (eq ?input R1)
-		then
-                (return 1.00))
-      (if (eq ?input c50)
-		then
-                (return 0.50))
-      (if (eq ?input c20) 
-		then
-                (return 0.20))
-     (if (eq ?input c10)
-		then
-                (return 0.10)))						
+  (bind ?answer (read)))					
 	  
 (deffunction selected-item (?name)
       (if (eq ?name cola)
@@ -48,7 +31,7 @@
    
 (defrule select-item 
    =>
-      (printout t "after selecting an item enter money in terms of R5, R2, R1, c50, c20, c10 the costs for the items are
+      (printout t "after selecting an item enter money in terms of 5, 2, 1, 0.50, 0.20, 0.10 the costs for the items are
                              cola R8.50
 				orange R10.00
 				sweets R12.50
